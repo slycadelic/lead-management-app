@@ -21,9 +21,11 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Deploy on Vercel
+## Deployed on Vercel
 
 Live Link: https://lead-management-app-chi.vercel.app/
+
+Note: Update backend URL to your server URL (hosted locally or deployed) in next.config.mjs.
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
